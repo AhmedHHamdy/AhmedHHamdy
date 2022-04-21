@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A full stack software engineer from EGYPT.</h3>
 
-<p align="center"> <a href="https://twitter.com/Ahmed_Hamdyx" target="blank"><img src="https://img.shields.io/twitter/follow/bytesbybianca?logo=twitter&style=for-the-badge" alt="bytesbybianca" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Ahmed_Hamdyx" target="blank"><img src="https://img.shields.io/twitter/follow/bytesbyahmed?logo=twitter&style=for-the-badge" alt="bytesbyahmed" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
