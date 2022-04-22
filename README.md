@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A full stack software engineer from EGYPT.</h3>
 
+<p>A creative and detail-oriented, software engineer with a deep interest in Robotics & Ai.
+
+I'm passionate about innovative technologies and how to build them. Whether it's creating full stack applications, websites, or something new for the web, I combine stellar design, optimal UI/UX, and industry best practices for the tech stack.</p>
+
 <p align="center"> <a href="https://twitter.com/Ahmed_Hamdyx" target="blank"><img src="https://img.shields.io/twitter/follow/Ahmed_Hamdyx?logo=twitter&style=for-the-badge" alt="Ahmed_Hamdyx" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
