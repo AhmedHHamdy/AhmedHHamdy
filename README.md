@@ -56,6 +56,24 @@
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5, NASA API</strong> - The objective is to have the user be able to enter a date and then get in return an image and some other piece of information from the NASA APOD API.</p>
+
+<td width="50%">
+<h3 align="center" color="white"># StarWarsCharacters 🧑🏼‍🤝‍🧑🏼</h2>
+<div align="center" >  
+<a href='https://starwarscharactersapp.netlify.app/'>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-a6874b06cd.gif" alt="" width="50%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/AhmedHHamdy/StarWarsCharacters" target="_blank">
+<img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://starwarscharactersapp.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=purple"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - An  application to showcase Star Wars characters. The application allows user to hear the voices of Star Wars characters.</p>
 </div>
 </table>
 
