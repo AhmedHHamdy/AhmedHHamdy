@@ -56,8 +56,12 @@
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5, NASA API</strong> - The objective is to have the user be able to enter a date and then get in return an image and some other piece of information from the NASA APOD API.</p>
-
-<td width="100%">
+</div>
+</table>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 <h3 align="center" color="white">StarWarsCharacters 🧑🏼‍🤝‍🧑🏼</h2>
 <div align="center" >  
 <a href='https://starwarscharactersapp.netlify.app/'>
