@@ -20,7 +20,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="0%">
+<td width="50%">
 <h3 align="center" color="white">Drinkify 🍸</h2>
 <div align="center" >  
 <a href='https://drinkifysite.netlify.app/'>
@@ -61,7 +61,7 @@
 <h3 align="center" color="white"># StarWarsCharacters 🧑🏼‍🤝‍🧑🏼</h2>
 <div align="center" >  
 <a href='https://starwarscharactersapp.netlify.app/'>
-<img src="https://im3.ezgif.com/tmp/ezgif-3-a6874b06cd.gif" alt="" width="100%" />
+<img src="https://im3.ezgif.com/tmp/ezgif-3-a6874b06cd.gif" alt="" width="50%" />
 </a>
 <br>
 <br>
