@@ -23,7 +23,7 @@
 <td width="0%">
 <h3 align="center" color="white">Drinkify 🍸</h2>
 <div align="center" >  
-<a href='hhttps://drinkifysite.netlify.app/'>
+<a href='https://drinkifysite.netlify.app/'>
 <img src="https://im.ezgif.com/tmp/ezgif-1-1d6bef3154.gif" alt="Drinkify"  width="100%" />
 </a>
 <br>
