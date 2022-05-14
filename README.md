@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/AhmedHHamdy/AhmedHHamdy/blob/main/banner%20(2).png?raw=true" alt="AhmedHHamdy"/>
+<img align="center" src="https://github.com/AhmedHHamdy/AhmedHHamdy/blob/main/background.png?raw=true" alt="AhmedHHamdy"/>
 
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A full stack software engineer.</h3>
@@ -24,7 +24,7 @@
 <h3 align="center" color="white">Drinkify 🍸</h2>
 <div align="center" >  
 <a href='hhttps://drinkifysite.netlify.app/'>
-<img src="https://im.ezgif.com/tmp/ezgif-1-1d6bef3154.gif" alt="Drinkify" height="322px" width="100%" />
+<img src="https://im.ezgif.com/tmp/ezgif-1-1d6bef3154.gif" alt="Drinkify"  width="100%" />
 </a>
 <br>
 <br>
@@ -43,7 +43,7 @@
 <h3 align="center" color="white">NASA-Picture-Of-the-Day 🌌</h2>
 <div align="center" >  
 <a href='https://ssjrmovieapi.netlify.app/'>
-<img src="https://im.ezgif.com/tmp/ezgif-1-fb9b75e22f.gif" alt="" height="322px" width="100%" />
+<img src="https://im.ezgif.com/tmp/ezgif-1-fb9b75e22f.gif" alt="" width="100%" />
 </a>
 <br>
 <br>
