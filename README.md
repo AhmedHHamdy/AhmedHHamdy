@@ -77,7 +77,7 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=purple"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - An  application to showcase Star Wars characters. The application allows user to hear the voices of Star Wars characters. Work in progress.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - An  application to showcase Star Wars characters. The application allows user to hear the voices of Star Wars characters.<br> Work in progress.</p>
 </div>
 </table>
 
