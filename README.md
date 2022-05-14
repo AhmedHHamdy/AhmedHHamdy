@@ -42,7 +42,7 @@
 <td width="50%">
 <h3 align="center" color="white">NASA-Picture-Of-the-Day 🌌</h2>
 <div align="center" >  
-<a href='https://ssjrmovieapi.netlify.app/'>
+<a href='https://nasapictureofthedayapi.netlify.app/'>
 <img src="https://im.ezgif.com/tmp/ezgif-1-fb9b75e22f.gif" alt="" width="100%" />
 </a>
 <br>
