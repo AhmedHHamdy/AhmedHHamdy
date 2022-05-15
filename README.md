@@ -24,7 +24,7 @@
 <h3 align="center" color="white">Drinkify 🍸</h2>
 <div align="center" >  
 <a href='https://drinkifysite.netlify.app/'>
-<img src="https://im.ezgif.com/tmp/ezgif-1-1d6bef3154.gif" alt="Drinkify"  width="100%" />
+<img src="https://media3.giphy.com/media/bdMhp3JG2H6CxkQDRF/giphy.gif?cid=790b761192c6456e149ae95b9458fbd3d16422519d205a49&rid=giphy.gif&ct=g" alt="Drinkify"  width="100%" />
 </a>
 <br>
 <br>
@@ -43,7 +43,7 @@
 <h3 align="center" color="white">NASA-Picture-Of-the-Day 🌌</h2>
 <div align="center" >  
 <a href='https://nasapictureofthedayapi.netlify.app/'>
-<img src="https://im.ezgif.com/tmp/ezgif-1-fb9b75e22f.gif" alt="" width="100%" />
+<img src="https://media1.giphy.com/media/XgmklQLQ7ydFhYm8G0/giphy.gif?cid=790b7611e46197dfced0a601fb21e998f27200413aae79bc&rid=giphy.gif&ct=g" alt="" width="100%" />
 </a>
 <br>
 <br>
@@ -65,7 +65,7 @@
 <h3 align="center" color="white">StarWarsCharacters 🧑🏼‍🤝‍🧑🏼</h2>
 <div align="center" >  
 <a href='https://starwarscharactersapp.netlify.app/'>
-<img src="https://im3.ezgif.com/tmp/ezgif-3-a6874b06cd.gif" alt="" width="50%" />
+<img src="https://media0.giphy.com/media/nh1jBMJPZXhGeVLetd/giphy.gif?cid=790b7611ad4554d93bb255202a5109b1000cb5fbec95b625&rid=giphy.gif&ct=g" alt="" width="50%" />
 </a>
 <br>
 <br>
