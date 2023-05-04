@@ -41,7 +41,7 @@
 <h3 align="center" color="white">Watchpedia🎬</h2>
 <div align="center" >  
 <a href='https://watchpedia.netlify.app/'>
-<img src="https://i.ibb.co/cgQSXry/ezgif-com-video-to-gif.gif" alt="Watchpedia"  width="100%" />
+<img src="https://i.ibb.co/nRxkjKF/ezgif-com-video-to-gif-3.gif" alt="Watchpedia"  width="100%" />
 </a>
 <br>
 <br>
@@ -64,7 +64,7 @@
 <br>
 <br>
 <p>
-<a href="https://github.com/AhmedHHamdy/Watchpedia" target="_blank">
+<a href="https://github.com/AhmedHHamdy/Tic-Tac-Toe" target="_blank">
 <img src="https://img.shields.io/badge/Code-red?style=for-the-badge&logo=github"/>
 </a>  
 <a href="https://tictactoeappgame.netlify.app/" target="_blank">
@@ -162,4 +162,4 @@
 </table><div align="center">
 <table><tr></table>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhhamdy&show_icons=true&locale=en&layout=compact" alt="ahmedhamdy" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhhamdy&show_icons=true&locale=en&layout=compact" alt="ahmedhamdy"  /></p>
