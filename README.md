@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/Hi.gif" width="40" />, I&#39;m Ahmed Hamdy</h1>
 <h2 align="left">Software Engineer</h3>
 
-I am a skilled full-stack software engineer with a front-end focus, dedicated to building high-quality, efficient applications to solve real-world problems
+- 👋 Hello everyone! I&#39;m Ahmed Hamdy.
 
-- 👋 Hi, I&#39;m @Ahmedhhamdy
+- 👨 I am a full-stack software engineer with a front-end focus, involved from initial design to building to deployment.
 
 - 👀 I&#39;m interested in video games, AI, illustration, and programming.
 
