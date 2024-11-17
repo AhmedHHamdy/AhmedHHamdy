@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/Hi.gif" width="40" />, I&#39;m Ahmed Hamdy</h1>
-<h2 align="center">Software Engineer</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/Hi.gif" width="40" />, I&#39;m Ahmed Hamdy</h1>
+<h2 align="left">Software Engineer</h3>
 
 I am a skilled full-stack software engineer with a front-end focus, dedicated to building high-quality, efficient applications to solve real-world problems
 
