@@ -7,7 +7,7 @@
 
 - 👀 I&#39;m interested in video games, AI, illustration, and programming.
 
-- 🌱 I&#39;m currently learning: **Python**
+- 🌱 I&#39;m currently learning: **Go**
 
 - 👯 I&#39;m looking to collaborate on Open-source Projects.
 
